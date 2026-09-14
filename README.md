@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anubhavgithub3/DataStructure-Algorithm/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Anubhavgithub3/DataStructure-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anubhavgithub3/DataStructure-Algorithm/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Anubhavgithub3/DataStructure-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Anubhavgithub3/DataStructure-Algorithm/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
